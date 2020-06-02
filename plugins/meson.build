@@ -1,4 +1,5 @@
 subdir('contractor')
+subdir('isomount')
 subdir('pantheon-files-trash')
 subdir('pantheon-files-ctags')
 subdir('pantheon-files-cloud')

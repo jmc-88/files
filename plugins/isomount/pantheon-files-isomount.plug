@@ -1,0 +1,3 @@
+[Plugin]
+Name=Mount ISO
+File=libpantheon-files-isomount.so
